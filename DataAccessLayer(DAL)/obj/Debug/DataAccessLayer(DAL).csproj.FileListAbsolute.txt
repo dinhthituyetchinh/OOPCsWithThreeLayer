@@ -1,0 +1,9 @@
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).dll
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\bin\Debug\DataAccessLayer(DAL).pdb
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\bin\Debug\DataTransferObject(DTO).dll
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\bin\Debug\DataTransferObject(DTO).pdb
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csproj.AssemblyReference.cache
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csproj.CoreCompileInputs.cache
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).csproj.CopyComplete
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).dll
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataAccessLayer(DAL)\obj\Debug\DataAccessLayer(DAL).pdb

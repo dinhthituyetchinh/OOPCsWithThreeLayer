@@ -1,0 +1,6 @@
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataTransferObject(DTO)\bin\Debug\DataTransferObject(DTO).dll
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataTransferObject(DTO)\bin\Debug\DataTransferObject(DTO).pdb
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataTransferObject(DTO)\obj\Debug\DataTransferObject(DTO).csproj.AssemblyReference.cache
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataTransferObject(DTO)\obj\Debug\DataTransferObject(DTO).csproj.CoreCompileInputs.cache
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataTransferObject(DTO)\obj\Debug\DataTransferObject(DTO).dll
+D:\Năm 2 - Kì 2\THHDT\OOPCsWithThreeLayer\DataTransferObject(DTO)\obj\Debug\DataTransferObject(DTO).pdb

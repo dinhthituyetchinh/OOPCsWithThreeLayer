@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS>
+	<HD>
+		<Loai>KHCN</Loai>
+		<MaKH>A001</MaKH>
+		<TenKH>Nguyễn Văn An</TenKH>
+		<SL>10</SL>
+		<GB>5871.222</GB>
+		<KC>4.5</KC>
+	</HD>
+	<HD>
+		<Loai>KHCN</Loai>
+		<MaKH>A002</MaKH>
+		<TenKH> Phạm Công Toàn</TenKH>
+		<SL>1</SL>
+		<GB>5871.222</GB>
+		<KC>11.5</KC>
+	</HD>
+	<HD>
+		<Loai>KHCN</Loai>
+		<MaKH>A003</MaKH>
+		<TenKH>Trần Thị Thuỷ</TenKH>
+		<SL>2</SL>
+		<GB>5871.222</GB>
+		<KC>10</KC>
+	</HD>
+	<HD>
+		<Loai>KHCN</Loai>
+		<MaKH>A004</MaKH>
+		<TenKH>Nguyễn Văn An</TenKH>
+		<SL>1</SL>
+		<GB>5871.222</GB>
+		<KC>5.5</KC>
+	</HD>
+	<HD>
+		<Loai>DL</Loai>
+		<MaKH>A005</MaKH>
+		<TenKH>ĐL Nguyễn Văn An</TenKH>
+		<SL>1</SL>
+		<GB>5871.222</GB>
+		<NamHT>2</NamHT>
+	</HD>
+	<HD>
+		<Loai>DL</Loai>
+		<MaKH>A006</MaKH>
+		<TenKH>ĐL Lê Ngọc Thảo</TenKH>
+		<SL>50</SL>
+		<GB>5871.222</GB>
+		<NamHT>10</NamHT>
+	</HD>
+	<HD>
+		<Loai>KHCT</Loai>
+		<MaKH>A001</MaKH>
+		<TenKH>Công Ty A</TenKH>
+		<SL>1</SL>
+		<GB>5871.222</GB>
+		<SLNV>120</SLNV>
+	</HD>
+	<HD>
+		<Loai>KHCT</Loai>
+		<MaKH>A002</MaKH>
+		<TenKH>Công Ty B</TenKH>
+		<SL>1</SL>
+		<GB>5871.222</GB>
+		<SLNV>120</SLNV>
+	</HD>
+	<HD>
+		<Loai>KHCT</Loai>
+		<MaKH>A003</MaKH>
+		<TenKH>Công Ty C</TenKH>
+		<SL>1</SL>
+		<GB>5871.222</GB>
+		<SLNV>120</SLNV>
+	</HD>
+	<HD>
+		<Loai>KHCT</Loai>
+		<MaKH>A004</MaKH>
+		<TenKH>Công Ty D</TenKH>
+		<SL>1</SL>
+		<GB>5871.222</GB>
+		<SLNV>120</SLNV>
+	</HD>
+</DS>
