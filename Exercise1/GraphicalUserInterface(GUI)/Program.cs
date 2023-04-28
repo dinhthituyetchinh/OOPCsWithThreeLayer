@@ -52,7 +52,7 @@ namespace GraphicalUserInterface_GUI_
             //dần theo thành tiền.
             //10.Cho biết trong danh sách công ty có bao nhiêu đại lý cấp 1.
             Console.OutputEncoding = Encoding.UTF8;
-            BBL_HoaDon dt = new BBL_HoaDon();
+            BLL_HoaDon dt = new BLL_HoaDon();
             dt.LoadHD();
             Console.ReadLine();
         }

@@ -7,10 +7,10 @@ using DataTransferObject_DTO_;
 using DataAccessLayer_DAL_;
 namespace BusinessLogicLayer_BLL_
 {
-    public class BBL_HoaDon
+    public class BLL_HoaDon
     {
             DanhSachHoaDon hd = new DanhSachHoaDon();
-        public BBL_HoaDon()
+        public BLL_HoaDon()
         {
 
         }
