@@ -1,0 +1,15 @@
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\GUI.exe.config
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\GUI.exe
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\GUI.pdb
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\BLL.dll
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\DTO.dll
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\BLL.pdb
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\DTO.pdb
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\obj\Debug\GUI.exe
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\obj\Debug\GUI.pdb
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\DAL.dll
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\GUI\bin\Debug\DAL.pdb

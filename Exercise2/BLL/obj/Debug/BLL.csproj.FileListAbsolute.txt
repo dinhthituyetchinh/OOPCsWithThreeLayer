@@ -1,0 +1,11 @@
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\bin\Debug\BLL.dll
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\bin\Debug\BLL.pdb
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\bin\Debug\DAL.dll
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\bin\Debug\DTO.dll
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\bin\Debug\DAL.pdb
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\bin\Debug\DTO.pdb
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\obj\Debug\BLL.dll
+D:\Năm 2 - Kì 2\OOPCsWithThreeLayer\Exercise2\BLL\obj\Debug\BLL.pdb
